@@ -1,0 +1,2 @@
+C:/Users/ASUS/OneDrive/OneDrive - unicauca.edu.co/Escritorio/Trabajo de grado/PSNEOPEI/prototipo2/android/app/.cxx/RelWithDebInfo/5t4t1cj5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/OneDrive/OneDrive - unicauca.edu.co/Escritorio/Trabajo de grado/PSNEOPEI/prototipo2/android/app/.cxx/RelWithDebInfo/5t4t1cj5/x86_64/CMakeFiles/rebuild_cache.dir
